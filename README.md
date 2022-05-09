@@ -40,7 +40,7 @@ Console base project wrote last year ( 2021 ).
   - [X] Sign up
   - [X] Sign in
   - [x] Exit
-  - [x] File Handling
+  - [x] File Handling ( I found some bugs on loading and saving data )
   - [x] Edit profile 
   - [x] Compose new mail
   - [ ] Inbox
