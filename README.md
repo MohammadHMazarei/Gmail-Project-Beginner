@@ -21,7 +21,7 @@ Console base project wrote last year ( 2021 ).
   7. Mail id
   ```
 > Account :
-  ```
+  
   1. User
   2. User id
   3. Username
@@ -31,21 +31,21 @@ Console base project wrote last year ( 2021 ).
   7. Drafts
   8. Starred mails
   9. Trash
-  ```
+  
 ## Tasks
-  ```
-  [X] Sign up
-  [X] Sign in
-  [x] Exit
-  [x] File Handling
-  [x] Edit profile 
-  [x] Compose new mail
-  [ ] Inbox
-  [X] Delete account
-  [X] Sign out
-  ```
+  
+  - [X] Sign up
+  - [X] Sign in
+  - [x] Exit
+  - [x] File Handling
+  - [x] Edit profile 
+  - [x] Compose new mail
+  - [ ] Inbox
+  - [X] Delete account
+  - [X] Sign out
+  
 ## Validation
-> Validations set for all completed tasks
+* Validations set for all completed tasks *
 ## Futures
 > Futures :
   1. Vector
