@@ -49,8 +49,8 @@ Console base project wrote last year ( 2021 ).
   
 ## Validation
 *Validations set for all completed tasks*
-## Futures
-> Futures :
+## Features
+> Features on next version :
   1. Vector
   2. Hashing
   3. Database
