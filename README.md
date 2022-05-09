@@ -51,7 +51,8 @@ Console base project wrote last year ( 2021 ).
 *Validations set for all completed tasks*
 ## Features
 > Features on next version :
-  1. Vector
-  2. Hashing
-  3. Database
-  4. Super admin
+  1. Fixing bugs
+  2. Vector
+  3. Hashing
+  4. Database
+  5. Super admin
